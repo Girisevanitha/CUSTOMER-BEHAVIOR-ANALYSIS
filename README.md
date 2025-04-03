@@ -4,7 +4,7 @@ Overview
 This project helps businesses  understand  with products and services  its aims to analyze customer behavior using Python and MySQL to generate valuable insights that can help improve customer experience and optimize marketing strategies. 
 
 Objectives
- Analyze customer feedback and reviews to identify areas of improvement
+- Analyze customer feedback and reviews to identify areas of improvement
 
 Methodology
 - Data collection: collect customer data from  CSV files 
